@@ -8,8 +8,35 @@ It demonstrates the use of structured Data Analysis to uncover trends and relati
 
 ### Tools 
 
-- Excel & Googlesheets - Data cleaning , Automation. [Download here](https://docs.google.com/spreadsheets/d/1yW2vk4i6eSYC_i-99tccJcaSP3x955sfhmsll1ssY1I/edit?usp=sharing)
+- Excel & Googlesheets - Data cleaning , Automation.
+   -  [Download here](https://docs.google.com/spreadsheets/d/1yW2vk4i6eSYC_i-99tccJcaSP3x955sfhmsll1ssY1I/edit?usp=sharing)
 - SQL- Data Analysis
 - Tableau - Visualization 
 
+### Data cleaning / Preparation 
 
+In the initial Data preparation phase , I performed the following task :
+- **Data Loading and inspection,**
+- **Handling Missing values.**
+- **Data cleaning and formatting**.
+
+   ### Data Exploration
+
+   **1**. **Distribution of Smoking Habits** :
+
+   Analyzes the Frequency and Pattern of Smoking behaviour among
+   different Demographic groups
+    e.g (Age , Gender).
+  
+    **2**.**Correlation Analysis** :
+
+   Investigate the relationship between Smoking status and Health indicators such as Heart Rate, Blood Pressure , and Cholesterol levels.
+
+    **3.** **Impact of Cigarette Consumption** :
+ 
+  Examine How daily cigarette consumption influences  specific health metrics over time .
+
+    **4.** **Trend Analysis :**
+
+   Identify trends or patterns in Health indicators (e.g.,Blood pressure changes) between smokers and non-smokers.
+  
