@@ -39,4 +39,19 @@ In the initial Data preparation phase , I performed the following task :
     **4.** **Trend Analysis :**
 
    Identify trends or patterns in Health indicators (e.g.,Blood pressure changes) between smokers and non-smokers.
+
+  ### **Data Analysis **
+
+  include some intresting codes worked with
   
+  ```SQL
+   SELECT  Age , Sex , Heart_rate , Chol
+  from smokers_health.smoking_health_data_final where Age between 35 and 55;
+ ```
+
+```SQL
+SELECT Distinct  max(Age) as Max_Age , sex
+FROM smokers_health.smoking_health_data_final
+Group by sex
+Having max(Age);
+```
