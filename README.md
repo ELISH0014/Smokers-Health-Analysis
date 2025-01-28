@@ -45,11 +45,26 @@ In the initial Data preparation phase , I performed the following task :
   include some intresting codes worked with
   
     ```SQL
-   SELECT  Age , Sex , Heart_rate , Chol
+   Select  Age , Sex , Heart_rate , Chol
   From smokers_health.smoking_health_data_final where Age between 35 and 55;
    ```
 
      ```SQL
      SELECT Distinct  max(Age) as Max_Age , sex
-    FROM smokers_health.smoking_health_data_final Group by sex Having max(Age);
+    FROM smokers_health.smoking_health_data_final
+     Group by sex Having max(Age);
      ```
+```SQL
+Select Age , cigs_per_day , chol , heart_rate
+FROM smokers_health.smoking_health_data_final
+where chol between 200 and 239 and heart_rate >100; 
+```
+
+```SQL
+Select  sum(Heart_rate) as Total_outliers_HeartRate , 
+ count(*) as outlier_count, avg(heart_rate) as AVG_Outlier_heartrate 
+ FROM  smokers_health.smoking_health_data_final
+ where chol between 200 and 239 and heart_rate >100;
+```
+        
+         
