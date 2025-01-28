@@ -66,5 +66,54 @@ Select  sum(Heart_rate) as Total_outliers_HeartRate ,
  FROM  smokers_health.smoking_health_data_final
  where chol between 200 and 239 and heart_rate >100;
 ```
-        
+
+```SQL
+Select Heart_rate , cigs_per_day , chol, 
+ count(*) over () as total_count 
+ from smokers_health.smoking_health_data_final 
+ where 
+ chol >=240;
+```
+
+```SQL
+select Age , sex , current_smoker, Heart_rate , Blood_pressure, 
+cigs_per_day, chol,
+case 
+when cigs_per_day = null then 'unknown'
+when  cigs_per_day = 0 then 'Non-Smoker'
+when cigs_per_day between 1 and 5 then 'Occasional smoker ' 
+when cigs_per_day between 6 and 15  then ' Moderate smoker '
+when cigs_per_day >=16 then 'Heavy smoker'
+else 'unknown'
+End as smokers_frequency
+from smokers_health.smoking_health_data_finaL;
+```
+
+```SQL
+select  current_smoker ,  count(*) as total_individuals, 
+avg(Heart_Rate) as Mean_Heart_Rate , min(Heart_rate) AS Min_Heart_Rate , 
+max(Heart_rate) as max_Heart_rate 
+from smokers_health.smoking_health_data_finaL 
+group by current_smoker;
+```
+
+ ```SQL
+select case 
+when Age < 20 then '<20'
+when Age between 20 and 39 then '20-39'
+when age between 40 and 59 then '40-59'
+else '60+'
+end as Age_Group ,
+count(*) as total_individuals, 
+avg(Heart_Rate) as Mean_Heart_Rate , min(Heart_rate) AS Min_Heart_Rate , 
+max(Heart_rate) as max_Heart_rate 
+from smokers_health.smoking_health_data_finaL 
+group by 
+case 
+when Age < 20 then '<20'
+when Age between 20 and 39 then '20-39'
+when age between 40 and 59 then '40-59'
+else '60+'
+END;
+```
          
