@@ -40,6 +40,8 @@ In the initial Data preparation phase , I performed the following task :
 
    Identify Trends / Patterns in Health indicators (e.g.,Blood pressure changes) between smokers and non-smokers.
   ![ABNORMAL(HIGH)](https://github.com/user-attachments/assets/16958d12-1727-4272-b836-3f210470393c)
+  ![ABNORMAL CHOLESTEROL(BOARDER LINE )](https://github.com/user-attachments/assets/2efd339a-4347-463c-9ca1-67b6c22fa59e)
+
   
 
   
