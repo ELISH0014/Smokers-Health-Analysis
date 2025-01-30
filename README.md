@@ -38,7 +38,12 @@ In the initial Data preparation phase , I performed the following task :
 
     **4.** **Trend Analysis :**
 
-   Identify trends or patterns in Health indicators (e.g.,Blood pressure changes) between smokers and non-smokers.
+   Identify Trends / Patterns in Health indicators (e.g.,Blood pressure changes) between smokers and non-smokers.
+  ![ABNORMAL(HIGH)](https://github.com/user-attachments/assets/16958d12-1727-4272-b836-3f210470393c)
+  
+
+  
+
 
   ### **Data Analysis **
 
