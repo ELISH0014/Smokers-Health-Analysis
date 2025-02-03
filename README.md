@@ -123,4 +123,20 @@ when age between 40 and 59 then '40-59'
 else '60+'
 END;
 ```
-         
+
+```SQL
+SELECT  current_smoker as CURRENT_SMOKER ,  CASE 
+WHEN CHOL <200 THEN 'NORMAL' 
+WHEN CHOL BETWEEN 200 AND 239 THEN 'BOARDERLINE' 
+ELSE 'HIGH' 
+END AS CHOLESTEROL_LEVELS , 
+count(*) as total_individuals, 
+avg(Heart_Rate) as Mean_Heart_Rate , min(Heart_rate) AS Min_Heart_Rate , 
+max(Heart_rate) as max_Heart_rate 
+from smokers_health.smoking_health_data_finaL 
+group by current_smoker ,case 
+WHEN CHOL <200 THEN 'NORMAL' 
+WHEN CHOL BETWEEN 200 AND 239 THEN 'BOARDERLINE' 
+ELSE 'High' 
+END ;
+```
