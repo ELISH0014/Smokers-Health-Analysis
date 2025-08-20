@@ -142,3 +142,13 @@ WHEN CHOL BETWEEN 200 AND 239 THEN 'BOARDERLINE'
 ELSE 'High' 
 END ;
 ```
+
+##  Conclusion & Results  
+
+The analysis shows a strong negative relationship between cigarette consumption and cardiovascular health indicators:  
+
+-  *Heart rate variability increases* significantly among smokers, especially those with abnormal or borderline cholesterol levels.  
+-  *Cholesterol status amplifies smoking’s impact* — individuals with high or borderline cholesterol experience more erratic changes in heart rate compared to those with normal cholesterol.  
+- Even with *normal cholesterol*, smoking contributes to irregular heart rate patterns, signaling potential long-term cardiovascular risks.  
+
+* Result:* Cigarette consumption negatively impacts cardiovascular stability across all groups, with *greater risks in individuals with pre-existing cholesterol abnormalities*. This confirms smoking as a compounding risk factor for cardiovascular disease and highlights the need for targeted prevention and early interventions.
