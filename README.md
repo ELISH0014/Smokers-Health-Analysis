@@ -150,17 +150,17 @@ GROUP BY
 ## Visual Insights
 
 This section presents key visual findings from the analysis of smoking behavior and cardiovascular health indicators.
-
 ---
+
 
 ## Overall Health Dashboard
 
 <img width="1536" height="1024" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/1975ec5a-a728-4386-8f0c-c78a9b586b20" />
 
 
-This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators.
-
+This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators
 ---
+
 
 ## Key Insights
 
@@ -168,7 +168,6 @@ This dashboard summarizes the relationship between smoking intensity, cholestero
 - Cholesterol levels significantly influence cardiovascular risk  
 - Heavy smokers exhibit the most unstable health indicators  
 - Smoking combined with high cholesterol increases health risk severity  
-
 ---
 
 ## Conclusion
