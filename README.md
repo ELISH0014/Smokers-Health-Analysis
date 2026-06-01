@@ -146,17 +146,24 @@ GROUP BY
         WHEN Chol BETWEEN 200 AND 239 THEN 'BORDERLINE'
         ELSE 'HIGH'
     END;
-Key Insights
-Smokers consistently show higher heart rates than non-smokers
-Cholesterol levels significantly influence cardiovascular risk
-Heavy smokers exhibit the most unstable health indicators
-Smoking combined with high cholesterol increases health risk severity
-Conclusion
+
+
+## Key Insights
+
+- Smokers consistently show higher heart rates than non-smokers  
+- Cholesterol levels significantly influence cardiovascular risk  
+- Heavy smokers exhibit the most unstable health indicators  
+- Smoking combined with high cholesterol increases health risk severity  
+
+---
+
+## Conclusion
 
 Smoking has a strong negative impact on cardiovascular health indicators.
 
 The analysis shows that smoking increases heart rate and worsens cholesterol-related risk, especially in individuals with existing cholesterol abnormalities.
 
+Smoking is therefore a major modifiable risk factor for cardiovascular disease.
 Smoking is therefore a major modifiable risk factor for cardiovascular disease.
 
 
