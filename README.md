@@ -147,6 +147,13 @@ GROUP BY
         ELSE 'HIGH'
     END;
 
+## Visual Insights
+
+### Overall Health Dashboard
+
+![Smoking Health Dashboard](images/dashboard_overview.png)
+
+This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators.
 
 ## Key Insights
 
