@@ -149,13 +149,15 @@ GROUP BY
 
 ## Visual Insights
 
+
+
 ### Overall Health Dashboard
 
 ![Smoking Health Dashboard](images/dashboard_overview.png)
 
 This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators.
 
-## Key Insights
+### Key Insights
 
 - Smokers consistently show higher heart rates than non-smokers  
 - Cholesterol levels significantly influence cardiovascular risk  
@@ -164,7 +166,7 @@ This dashboard summarizes the relationship between smoking intensity, cholestero
 
 ---
 
-## Conclusion
+### Conclusion
 
 Smoking has a strong negative impact on cardiovascular health indicators.
 
