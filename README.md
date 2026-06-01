@@ -149,15 +149,19 @@ GROUP BY
 
 ## Visual Insights
 
+This section presents key visual findings from the analysis of smoking behavior and cardiovascular health indicators.
 
+---
 
-## Overall Health Dashboard
+### 1. Overall Health Dashboard
 
 ![Smoking Health Dashboard](images/dashboard_overview.png)
 
 This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators.
 
-### Key Insights
+---
+
+### 2. Key Insights from Visualization
 
 - Smokers consistently show higher heart rates than non-smokers  
 - Cholesterol levels significantly influence cardiovascular risk  
@@ -172,9 +176,4 @@ Smoking has a strong negative impact on cardiovascular health indicators.
 
 The analysis shows that smoking increases heart rate and worsens cholesterol-related risk, especially in individuals with existing cholesterol abnormalities.
 
-Smoking is therefore a major modifiable risk factor for cardiovascular disease.
-Smoking is therefore a major modifiable risk factor for cardiovascular disease.
-
-
----
-
+Smoking is a major modifiable risk factor for cardiovascular disease.
