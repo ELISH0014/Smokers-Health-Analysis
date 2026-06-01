@@ -151,7 +151,7 @@ GROUP BY
 
 
 
-### Overall Health Dashboard
+## Overall Health Dashboard
 
 ![Smoking Health Dashboard](images/dashboard_overview.png)
 
@@ -166,7 +166,7 @@ This dashboard summarizes the relationship between smoking intensity, cholestero
 
 ---
 
-### Conclusion
+## Conclusion
 
 Smoking has a strong negative impact on cardiovascular health indicators.
 
