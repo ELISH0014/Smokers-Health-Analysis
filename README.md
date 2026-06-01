@@ -155,7 +155,8 @@ This section presents key visual findings from the analysis of smoking behavior 
 
 ## Overall Health Dashboard
 
-![Smoking Health Dashboard](images/dashboard_overview.png)
+<img width="1536" height="1024" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/1975ec5a-a728-4386-8f0c-c78a9b586b20" />
+
 
 This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators.
 
