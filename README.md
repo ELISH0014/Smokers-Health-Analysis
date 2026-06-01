@@ -153,7 +153,7 @@ This section presents key visual findings from the analysis of smoking behavior 
 
 ---
 
-### 1. Overall Health Dashboard
+## Overall Health Dashboard
 
 ![Smoking Health Dashboard](images/dashboard_overview.png)
 
@@ -161,7 +161,7 @@ This dashboard summarizes the relationship between smoking intensity, cholestero
 
 ---
 
-### 2. Key Insights from Visualization
+## Key Insights
 
 - Smokers consistently show higher heart rates than non-smokers  
 - Cholesterol levels significantly influence cardiovascular risk  
