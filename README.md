@@ -149,23 +149,7 @@ GROUP BY
 
 ## Visual Insights
 
-This section presents key visual findings from the analysis of smoking behavior and cardiovascular health indicators.
-## High Cholesterol Analysis
-
-<img width="1128" height="683" alt="ABNORMAL(HIGH) (1)" src="https://github.com/user-attachments/assets/a4c9c543-c1dd-423b-8212-afbaccb190a7" />
-
-### Insight
-
-This visualization examines smokers with high cholesterol levels (240 mg/dL and above). Individuals with higher cigarette consumption generally exhibit elevated heart rates, indicating increased cardiovascular stress and a greater risk of cardiovascular disease.
-
-
-## Overall Health Dashboard
-
-<img width="1536" height="1024" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/1975ec5a-a728-4386-8f0c-c78a9b586b20" />
-
-
-This dashboard summarizes the relationship between smoking intensity, cholesterol levels, and cardiovascular health indicators
----
+<img width="1128" height="683" alt="ABNORMAL CHOLESTEROL(BOARDER LINE ) (1)" src="https://github.com/user-attachments/assets/389c8e16-1124-4188-8ee9-bacdbf8cacda" />
 
 
 ## Key Insights
