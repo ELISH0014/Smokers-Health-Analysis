@@ -149,9 +149,7 @@ GROUP BY
 
 ## Visual Insights
 
-<img width="1128" height="683" alt="ABNORMAL CHOLESTEROL(BOARDER LINE ) (1)" src="https://github.com/user-attachments/assets/389c8e16-1124-4188-8ee9-bacdbf8cacda" />
-
-
+ABNORMAL(HIGH) (1).png
 ## Key Insights
 
 - Smokers consistently show higher heart rates than non-smokers  
