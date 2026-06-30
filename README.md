@@ -149,7 +149,7 @@ GROUP BY
 
 ## Visual Insights
 
-ABNORMAL(HIGH) (1).png
+![Borderline Cholesterol](borderline_cholesterol.png)
 ## Key Insights
 
 - Smokers consistently show higher heart rates than non-smokers  
