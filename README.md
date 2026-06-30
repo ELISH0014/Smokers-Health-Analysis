@@ -152,7 +152,7 @@ GROUP BY
 This section presents key visual findings from the analysis of smoking behavior and cardiovascular health indicators.
 ## High Cholesterol Analysis
 
-![High Cholesterol](ABNORMAL(HIGH)%20(1).png)
+<img width="1128" height="683" alt="ABNORMAL(HIGH) (1)" src="https://github.com/user-attachments/assets/a4c9c543-c1dd-423b-8212-afbaccb190a7" />
 
 ### Insight
 
